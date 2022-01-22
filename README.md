@@ -1,12 +1,14 @@
 # FirstGifTgBot
 
-
 Telegram bot that will be the first to send GIFs in the channel comments. 
 It is possible for fun or to fight with the first to add to your channel.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To run the bot, you need to configure the config 
+and create a static folder in which to upload gifs 
+with the names 1.gif, 2.gif, 3.gif, etc. In the config, you will need 
+to specify the number of gifs. It remains only to run the tgbot.py file.
 
 ### Prerequisites
 
