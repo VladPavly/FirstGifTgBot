@@ -11,14 +11,13 @@ api_id = '' #Tg api id
 api_hash = '' #Tg api hash
 target = -0 #Tg group id to which to send gifs
 tech_group = -0 #Tg group id that is needed for the fast work of the bot
-count = 19
+count = 5 #The number of gifs that are uploaded to the static folder
 started = False
 wait = False
 
 app = Client("your_username", api_id, api_hash)
 
 with open('ids.json', 'r') as fr:
-    # Читаем из файла
     ids = json.load(fr)
 
 file_ids = []
