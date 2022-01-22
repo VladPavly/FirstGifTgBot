@@ -30,4 +30,4 @@ you need to fill in all the fields at the beginning of the tgbot.py file
 * aioschedule: https://pypi.org/project/aioschedule/
 
 ## Author
-Vlad100
+* **Vlad100**
