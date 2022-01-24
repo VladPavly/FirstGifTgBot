@@ -17,9 +17,6 @@ wait = False
 
 app = Client("your_username", api_id, api_hash)
 
-with open('ids.json', 'r') as fr:
-    ids = json.load(fr)
-
 file_ids = []
 
 @app.on_message()
@@ -43,8 +40,6 @@ async def on_bot_get_message(Client, message):
                  a = await app.send_animation(tech_group, f'static/{i}.gif')
                  await asyncio.sleep(8)
                  ids.append(a.message_id)
-         with open('ids.json', 'w') as fw:
-             json.dump(ids, fw)
 
          file_ids = []
          for i in await app.get_messages(tech_group, ids):
