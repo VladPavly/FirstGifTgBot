@@ -12,10 +12,10 @@ to specify the number of gifs. It remains only to run the tgbot.py file.
 
 ### Prerequisites
 
-Python 3: https://www.python.org/downloads/
-pyrogram: https://docs.pyrogram.org/intro/install
-asyncio: https://pypi.org/project/asyncio/
-aioschedule: https://pypi.org/project/aioschedule/
+Python 3: https://www.python.org/downloads/  
+pyrogram: https://docs.pyrogram.org/intro/install   
+asyncio: https://pypi.org/project/asyncio/  
+aioschedule: https://pypi.org/project/aioschedule/   
 
 ### Installing
 
