@@ -19,8 +19,8 @@ aioschedule: https://pypi.org/project/aioschedule/
 
 ### Installing
 
-After installing Python 3 and all the necessary libraries, 
-you need to fill in all the fields at the beginning of the tgbot.py file
+After installing Python 3 and all required libraries,
+you need to fill in all the fields in the config.py file
 
 ## Built With
 
