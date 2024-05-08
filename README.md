@@ -22,12 +22,5 @@ aioschedule: https://pypi.org/project/aioschedule/
 After installing Python 3 and all required libraries,
 you need to fill in all the fields in the config.py file
 
-## Built With
-
-* Python 3: https://www.python.org/
-* pyrogram: https://docs.pyrogram.org/
-* asyncio: https://pypi.org/project/asyncio/
-* aioschedule: https://pypi.org/project/aioschedule/
-
 ## Author
 * **Vlad100**
